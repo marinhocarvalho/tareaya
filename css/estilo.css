@@ -1,0 +1,14 @@
+/* 
+    Document   : estilo
+    Created on : 24-jun-2015, 0:21:23
+    Author     : Mario Ribera
+    Description:
+        Purpose of the stylesheet follows.
+*/
+
+root { 
+    display: block;
+}
+.well{
+    background-color: red;
+}
